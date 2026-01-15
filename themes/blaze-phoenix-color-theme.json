@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Blaze (Phoenix)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#151211",
+    "activityBar.foreground": "#fadc31",
+    "sideBar.background": "#1a1615",
+    "sideBar.foreground": "#e0e0e0",
+    "editor.background": "#201b1a",
+    "editor.foreground": "#e0e0e0",
+    "statusBar.background": "#fadc31",
+    "statusBar.foreground": "#151211",
+    "list.activeSelectionBackground": "#fadc3140",
+    "list.hoverBackground": "#fadc3120",
+    "editorCursor.foreground": "#fadc31",
+    "titleBar.activeBackground": "#151211",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#665c54"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#fadc31"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#ff9100"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    }
+  ]
+}

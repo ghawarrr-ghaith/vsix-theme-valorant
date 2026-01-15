@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Jade (Sage)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#151211",
+    "activityBar.foreground": "#3be0c3",
+    "sideBar.background": "#1a1615",
+    "sideBar.foreground": "#e0e0e0",
+    "editor.background": "#1e2423",
+    "editor.foreground": "#e0e0e0",
+    "statusBar.background": "#16b199",
+    "statusBar.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#3be0c340",
+    "list.hoverBackground": "#3be0c320",
+    "editorCursor.foreground": "#3be0c3",
+    "titleBar.activeBackground": "#151211",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#50605d"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#3be0c3"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#b69a82"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#16b199"
+      }
+    }
+  ]
+}

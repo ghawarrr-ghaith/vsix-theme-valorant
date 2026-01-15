@@ -1,0 +1,51 @@
+{
+  "name": "valorant-theme",
+  "displayName": "Valorant Theme",
+  "description": "VS Code themes inspired by Valorant agents.",
+  "version": "0.0.1",
+  "publisher": "verzi",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Valorant: Wind (Jett)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wind-jett-color-theme.json"
+      },
+      {
+        "label": "Valorant: Blaze (Phoenix)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blaze-phoenix-color-theme.json"
+      },
+      {
+        "label": "Valorant: Jade (Sage)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jade-sage-color-theme.json"
+      },
+      {
+        "label": "Valorant: Empress (Reyna)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/empress-reyna-color-theme.json"
+      },
+      {
+        "label": "Valorant: Shadow (Omen)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadow-omen-color-theme.json"
+      },
+      {
+        "label": "Valorant: Toxic (Viper)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toxic-viper-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghawarrr-ghaith/vsix-theme-valorant"
+  }
+}

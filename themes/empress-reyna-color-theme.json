@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Empress (Reyna)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#201b2b",
+    "activityBar.foreground": "#c55bfc",
+    "sideBar.background": "#251f33",
+    "sideBar.foreground": "#e0e0e0",
+    "editor.background": "#2a233b",
+    "editor.foreground": "#e0e0e0",
+    "statusBar.background": "#983586",
+    "statusBar.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#c55bfc40",
+    "list.hoverBackground": "#c55bfc20",
+    "editorCursor.foreground": "#c55bfc",
+    "titleBar.activeBackground": "#201b2b",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#725745"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#c55bfc"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#f0c8c8"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#da6cf3"
+      }
+    }
+  ]
+}

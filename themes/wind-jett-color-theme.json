@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Wind (Jett)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#0b0e22",
+    "activityBar.foreground": "#67c0c9",
+    "sideBar.background": "#0f1229",
+    "sideBar.foreground": "#b3bed1",
+    "editor.background": "#13162f",
+    "editor.foreground": "#b3bed1",
+    "statusBar.background": "#15516d",
+    "statusBar.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#67c0c940",
+    "list.hoverBackground": "#67c0c920",
+    "editorCursor.foreground": "#67c0c9",
+    "titleBar.activeBackground": "#0b0e22",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#5c677d"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#67c0c9"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#e7cbc3"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#77d4e4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Toxic (Viper)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#151211",
+    "activityBar.foreground": "#1cb864",
+    "sideBar.background": "#254335",
+    "sideBar.foreground": "#bec3bc",
+    "editor.background": "#1b1e1b",
+    "editor.foreground": "#bec3bc",
+    "statusBar.background": "#078f3f",
+    "statusBar.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#1cb86440",
+    "list.hoverBackground": "#1cb86420",
+    "editorCursor.foreground": "#1cb864",
+    "titleBar.activeBackground": "#151211",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#5e7e69"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#1cb864"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#8bedb8"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#a1bd48"
+      }
+    }
+  ]
+}

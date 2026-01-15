@@ -1,0 +1,45 @@
+{
+  "name": "Valorant: Shadow (Omen)",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#142d74",
+    "activityBar.foreground": "#1cc7d3",
+    "sideBar.background": "#182545",
+    "sideBar.foreground": "#a4abbe",
+    "editor.background": "#39334f",
+    "editor.foreground": "#a4abbe",
+    "statusBar.background": "#315bb9",
+    "statusBar.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#1cc7d340",
+    "list.hoverBackground": "#1cc7d320",
+    "editorCursor.foreground": "#1cc7d3",
+    "titleBar.activeBackground": "#142d74",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#5464ac"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#1cc7d3"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#778ae7"
+      }
+    },
+    {
+      "scope": "meta.function-call",
+      "settings": {
+        "foreground": "#766c92"
+      }
+    }
+  ]
+}
